@@ -1,0 +1,91 @@
+// Name: Joseph Bertram
+// Class: Fundamentals of Computing Lab
+// Assignment: Lab 6: Game of Life
+// Purpose: scene2.txt should show four different "oscillators" that progress through two or more stages, but always return to the same shape. 
+
+a 7 5
+a 8 5
+a 9 5
+a 3 15
+a 3 16
+a 4 14
+a 4 17
+a 5 13
+a 5 18
+a 6 12
+a 6 19
+a 7 12
+a 7 19
+a 8 13
+a 8 18
+a 9 14
+a 9 17
+a 10 15
+a 10 16
+a 15 16
+a 15 17
+a 15 18
+a 14 18
+a 13 18
+a 13 19 
+a 13 20
+a 13 21
+a 14 21
+a 15 21
+a 15 22
+a 15 23
+a 16 23
+a 17 23
+a 18 23
+a 15 16
+a 16 16
+a 17 16
+a 18 16
+a 18 17
+a 18 18
+a 19 18
+a 20 18
+a 20 19
+a 20 20
+a 18 22
+a 18 21
+a 20 21
+a 19 21
+a 28 30
+a 28 31
+a 27 30
+a 27 31
+a 30 28
+a 30 29
+a 30 30
+a 30 31
+a 31 32
+a 32 32
+a 33 32
+a 34 32
+a 35 31
+a 35 30
+a 35 29
+a 35 28
+a 33 34
+a 33 35
+a 34 34
+a 34 35
+a 37 28
+a 37 29
+a 38 28
+a 38 29
+a 31 27 
+a 32 27
+a 33 27
+a 34 27
+a 31 25
+a 32 25
+a 31 24
+a 32 24
+a 34 29
+a 33 30
+a 32 30
+p
+
+

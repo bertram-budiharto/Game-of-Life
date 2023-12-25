@@ -1,0 +1,27 @@
+// Name: Joseph Bertram
+// Class: Fundamentals of Computing Lab
+// Assignment: Lab 6: Game of Life
+// Purpose: scene3.txt should show four different objects that move across the screen in different directions.
+
+a 20 20
+a 21 21
+a 21 22
+a 20 22
+a 19 22
+a 9 10
+a 10 10
+a 11 10
+a 9 11
+a 10 12 
+a 15 15
+a 16 15
+a 17 15
+a 15 14
+a 16 13
+a 30 30
+a 31 30
+a 32 30
+a 32 31
+a 31 32
+p
+

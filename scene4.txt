@@ -1,0 +1,22 @@
+// Name: Joseph Bertram
+// Class: Fundamentals of Computing Lab
+// Assignment: Lab 6: Game of Life 
+// Purpose: scene4.txt should show an "explosion" that creates a large amount of initial activity, but then settles down into still life, oscillators, or nothing.
+
+a 17 17
+a 17 18
+a 17 19
+a 18 17
+a 19 17
+a 19 18
+a 19 19
+a 18 19
+a 17 21
+a 17 22
+a 17 23
+a 18 21
+a 19 21
+a 19 22
+a 19 23
+a 18 23
+p

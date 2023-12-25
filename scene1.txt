@@ -1,0 +1,42 @@
+// Name: Joseph Bertram
+// Class: Fundamentals of Computing Lab
+// Assignment: Lab 6: Game of Life
+// Purpose: scene1.txt should show four different "still life" objects that do not change as time passes.
+
+a 2 4
+a 2 5
+a 3 3
+a 3 6
+a 4 4
+a 4 5
+a 5 10
+a 5 11
+a 6 9
+a 6 12
+a 7 10
+a 7 11
+a 7 13
+a 8 13
+a 9 13
+a 9 14
+a 20 21
+a 20 22
+a 21 21
+a 21 22
+a 20 24
+a 20 25
+a 21 24
+a 21 25
+a 30 30
+a 30 31
+a 31 31
+a 32 31
+a 33 31
+a 33 30
+a 30 33
+a 30 34
+a 31 33
+a 32 33
+a 33 33
+a 33 34
+p
